@@ -20,6 +20,14 @@ Please check my [Curriculum Vitae](https://drive.google.com/file/d/1Fq48LtFeeHox
   - [Paper](https://drive.google.com/file/d/1rhePcQQvrWL47I_C43fZIGwpuDuPx5wr/view?usp=sharing) | [Code](https://github.com/IIPL-CAU/latent_nlp_model)
 
 ### Domestic Publications
+- KITE: 한국어 고의 오탈자를 활용한 텍스트 데이터 증강 방법론
+  - Seunguk Yu, **Juhwan Choi**, Heejae Suh, Kyohoon Jin and Youngbin Kim
+  - 한국HCI학회 2023년도 학술대회
+  - [Paper](https://drive.google.com/file/d/1E-lwlX6rzsKkP4mZ96d86-hOGK1FxORX/view?usp=share_link)
+- 낯선 데이터를 활용한 과잉신뢰 완화 텍스트 증강 기법
+	- Junho Lee, Sahngmin Song, **Juhwan Choi**, Juhyoung Park, Kyohoon Jin and Youngbin Kim}
+	- 한국HCI학회 2023년도 학술대회
+	- [Paper](https://drive.google.com/file/d/1UgZ6fC7H8tJMOXy96XL_EOFE_OzqbYMH/view?usp=share_link)
 - Variational Autoencoder 기반 의미 보존 자연어 데이터 증강 기법
   - **Juhwan Choi**, Junho Lee, Kyohoon Jin, Yehoon Jang, Soojin Jang and Youngbin Kim
   - 대한전자공학회 2022년도 하계종합학술대회
@@ -40,7 +48,3 @@ Please check my [Curriculum Vitae](https://drive.google.com/file/d/1Fq48LtFeeHox
 
 ### Programming Tools
 - Familiar: Git
-
-
-
-
