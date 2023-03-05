@@ -3,7 +3,7 @@
 ![overview](https://github.com/c-juhwan/github-stats/blob/master/generated/overview.svg)
 ![languages](https://github.com/c-juhwan/github-stats/blob/master/generated/languages.svg)
 
-Please check my [Curriculum Vitae](https://drive.google.com/file/d/1Fq48LtFeeHoxK5wL7dQAsQC6a8xHjQw4/view?usp=share_link) for more information!
+Please check my [Curriculum Vitae](https://github.com/c-juhwan/c-juhwan/blob/main/Documents/Curriculum_Vitae_Juhwan_Choi.pdf) for more information!
 
 ## Profile
 
