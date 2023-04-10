@@ -16,6 +16,12 @@ Please check my [Curriculum Vitae](https://github.com/c-juhwan/c-juhwan/blob/mai
 
 ### International Publications
 
+- SoftEDA: Rethinking Rule-Based Data Augmentation with Soft Labels
+  - **Juhwan Choi**, Kyohoon Jin, Junho Lee, Sangmin Song and Youngbin Kim
+  - ICLR 2023 Tiny Papers
+  - [Paper](https://openreview.net/pdf?id=OiSbJbVWBJT) | [Review](https://openreview.net/forum?id=OiSbJbVWBJT) | [Code](https://github.com/c-juhwan/SoftEDA)
+  - Selected as notable work with presentation
+
 - Generative Data Augmentation via Wasserstein Autoencoder for Text Classification
   - Kyohoon Jin, Junho Lee, **Juhwan Choi**, Soojin Jang and Youngbin Kim
   - The 13th International Conference on ICT Convergence
