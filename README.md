@@ -33,7 +33,7 @@ Please check my [Curriculum Vitae](https://github.com/c-juhwan/c-juhwan/blob/mai
 - 소프트 라벨을 적용한 규칙 기반 텍스트 데이터 증강 기법
   - **Juhwan Choi**, Junho Lee, Sangmin Song, Kyohoon Jin and Youngbin Kim
   - 대한전자공학회 2023년도 하계종합학술대회
-  - [Paper](https://github.com/c-juhwan/c-juhwan/blob/main/Documents/Papers/소프트_라벨을_적용한_규칙_기반_텍스트_데이터_증강_기법_인쇄본.pdf) | [Poster](https://github.com/c-juhwan/c-juhwan/blob/main/Documents/Papers/소프트_라벨을_적용한_규칙_기반_텍스트_데이터_증강_기법_포스터.pdf)
+  - [Paper](https://github.com/c-juhwan/c-juhwan/blob/main/Documents/Papers/소프트_라벨을_적용한_규칙_기반_텍스트_데이터_증강_기법_인쇄본.pdf) | [Poster](https://github.com/c-juhwan/c-juhwan/blob/main/Documents/Papers/소프트_라벨을_적용한_규칙_기반_텍스트_데이터_증강_기법_포스터.pdf)
 - 감정 간의 관계를 고려한 지도 대조 학습 기반 감정 인식
   - Dongje Yoo, Kyunghoon Jeon, **Juhwan Choi** and Youngbin Kim
   - 대한전자공학회 2023년도 하계종합학술대회
