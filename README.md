@@ -43,7 +43,7 @@ Please check my [Curriculum Vitae](https://github.com/c-juhwan/c-juhwan/blob/mai
   - 한국HCI학회 2023년도 학술대회
   - [Paper](https://github.com/c-juhwan/c-juhwan/blob/main/Documents/Papers/KITE_한국어_고의_오탈자를_활용한_텍스트_데이터_증강_방법론_인쇄본.pdf)
 - 낯선 데이터를 활용한 과잉신뢰 완화 텍스트 증강 기법
-  - Junho Lee, Sahngmin Song, **Juhwan Choi**, Juhyoung Park, Kyohoon Jin and Youngbin Kim}
+  - Junho Lee, Sahngmin Song, **Juhwan Choi**, Juhyoung Park, Kyohoon Jin and Youngbin Kim
   - 한국HCI학회 2023년도 학술대회
   - [Paper](https://github.com/c-juhwan/c-juhwan/blob/main/Documents/Papers/낯선_데이터를_활용한_과잉신뢰_완화_텍스트_증강_기법_인쇄본.pdf) | [Presentation](https://github.com/c-juhwan/c-juhwan/blob/main/Documents/Papers/낯선_데이터를_활용한_과잉신뢰_완화_텍스트_증강_기법_발표자료.pptx)
 - Semantic Preservation and Natural Language Data Augmentation via Variational Autoencoder
