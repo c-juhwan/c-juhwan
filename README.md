@@ -17,6 +17,10 @@ Please check my [Curriculum Vitae](https://github.com/c-juhwan/c-juhwan/blob/mai
 
 ### International Publications
 
+- GPTs Are Multilingual Annotators for Sequence Generation Tasks
+  - **Juhwan Choi**, Eunju Lee, Kyohoon Jin, and Youngbin Kim
+  - EACL 2024 Findings
+
 - SoftEDA: Rethinking Rule-Based Data Augmentation with Soft Labels
   - **Juhwan Choi**, Kyohoon Jin, Junho Lee, Sangmin Song and Youngbin Kim
   - ICLR 2023 Tiny Papers
