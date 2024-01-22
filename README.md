@@ -18,7 +18,7 @@ Please check my [Curriculum Vitae](https://github.com/c-juhwan/c-juhwan/blob/mai
 ### International Publications
 
 - AutoAugment Is What You Need: Enhancing Rule-based Augmentation Methods in Low-resource Regimes
-  - **Juhwan Choi**, Eunju Lee, Kyohoon Jin, and Youngbin Kim
+  - **Juhwan Choi**, Kyohoon Jin, Junho Lee, Sangmin Song and Youngbin Kim
   - EACL 2024 Student Research Workshop
 
 - GPTs Are Multilingual Annotators for Sequence Generation Tasks
