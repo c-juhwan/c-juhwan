@@ -17,6 +17,18 @@ Please check my [Curriculum Vitae](https://github.com/c-juhwan/c-juhwan/blob/mai
 
 ### International Publications
 
+- Enhancing Effectiveness and Robustness in a Low-Resource Regime via Decision-Boundary-aware Data Augmentation
+  - Kyohoon Jin, Junho Lee, **Juhwan Choi**, Sangmin Song and Youngbin Kim
+  - LREC-COLING 2024
+
+- Colorful Cutout: Enhancing Image Data Augmentation with Curriculum Learning
+  - **Juhwan Choi** and Youngbin Kim
+  - ICLR 2024 Tiny Papers
+
+- Adverb Is the Key: Simple Text Data Augmentation with Adverb Deletion
+  - **Juhwan Choi** and Youngbin Kim
+  - ICLR 2024 Tiny Papers
+
 - AutoAugment Is What You Need: Enhancing Rule-based Augmentation Methods in Low-resource Regimes
   - **Juhwan Choi**, Kyohoon Jin, Junho Lee, Sangmin Song and Youngbin Kim
   - EACL 2024 Student Research Workshop
