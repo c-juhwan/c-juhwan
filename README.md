@@ -50,6 +50,9 @@ Please check my [Curriculum Vitae](https://github.com/c-juhwan/c-juhwan/blob/mai
 
 ### Domestic Publications
 
+- 텍스트 분류를 위한 Wasserstein Autoencoder를 활용한 생성적 데이터 증강
+  - Kyohoon Jin, Junho Lee, **Juhwan Choi**, Sangmin Song, Soojin Jang and Youngbin Kim
+  - 2024년도 한국통신학회 동계종합학술발표회
 - 소프트 라벨을 적용한 규칙 기반 텍스트 데이터 증강 기법
   - **Juhwan Choi**, Junho Lee, Sangmin Song, Kyohoon Jin and Youngbin Kim
   - 대한전자공학회 2023년도 하계종합학술대회
