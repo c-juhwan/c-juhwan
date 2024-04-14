@@ -18,24 +18,34 @@ Please check my [Curriculum Vitae](https://github.com/c-juhwan/c-juhwan/blob/mai
 ### International Publications
 
 - Enhancing Effectiveness and Robustness in a Low-Resource Regime via Decision-Boundary-aware Data Augmentation
+  - Seunguk Yu, **Juhwan Choi** and Youngbin Kim
+  - NAACL 2024 Findings
+  - [Paper](https://arxiv.org/pdf/2403.15467.pdf)
+
+- Enhancing Effectiveness and Robustness in a Low-Resource Regime via Decision-Boundary-aware Data Augmentation
   - Kyohoon Jin, Junho Lee, **Juhwan Choi**, Sangmin Song and Youngbin Kim
   - LREC-COLING 2024
+  - [Paper](https://arxiv.org/pdf/2403.15512.pdf)
 
 - Colorful Cutout: Enhancing Image Data Augmentation with Curriculum Learning
   - **Juhwan Choi** and Youngbin Kim
   - ICLR 2024 Tiny Papers
+  - [Paper](https://arxiv.org/pdf/2403.20012.pdf)
 
 - Adverb Is the Key: Simple Text Data Augmentation with Adverb Deletion
   - **Juhwan Choi** and Youngbin Kim
   - ICLR 2024 Tiny Papers
+  - [Paper](https://arxiv.org/pdf/2403.20015.pdf)
 
 - AutoAugment Is What You Need: Enhancing Rule-based Augmentation Methods in Low-resource Regimes
   - **Juhwan Choi**, Kyohoon Jin, Junho Lee, Sangmin Song and Youngbin Kim
   - EACL 2024 Student Research Workshop
+  - [Paper](https://aclanthology.org/2024.eacl-srw.1.pdf)
 
 - GPTs Are Multilingual Annotators for Sequence Generation Tasks
   - **Juhwan Choi**, Eunju Lee, Kyohoon Jin, and Youngbin Kim
   - EACL 2024 Findings
+  - [Paper](https://aclanthology.org/2024.findings-eacl.2.pdf)
 
 - SoftEDA: Rethinking Rule-Based Data Augmentation with Soft Labels
   - **Juhwan Choi**, Kyohoon Jin, Junho Lee, Sangmin Song and Youngbin Kim
