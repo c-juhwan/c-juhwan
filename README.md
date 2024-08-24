@@ -17,6 +17,16 @@ Please check my [Curriculum Vitae](https://github.com/c-juhwan/c-juhwan/blob/mai
 
 ### International Publications
 
+- VolDoGer: LLM-assisted Datasets for Domain Generalization in Vision-Language Tasks
+  - **Juhwan Choi**, Junehyoung Kwon, Jungmin Yun, Seunguk Yu and YoungBin Kim
+  - arXiv Preprint arXiv:2407.19795
+  - [Paper](https://arxiv.org/pdf/2407.19795.pdf)
+
+- UniGen: Universal Domain Generalization for Sentiment Classification via Zero-shot Dataset Generation
+  - **Juhwan Choi**, Yeonghwa Kim, Seunguk Yu, Jungmin Yun and YoungBin Kim
+  - arXiv Preprint arXiv:2405.01022
+  - [Paper](https://arxiv.org/pdf/2405.01022.pdf)
+
 - Multi-News+: Cost-efficient Dataset Cleansing via LLM-based Data Annotation
   - **Juhwan Choi**, Jungmin Yun, Kyohoon Jin and YoungBin Kim
   - arXiv Preprint arxiv:2404.09682
@@ -65,13 +75,10 @@ Please check my [Curriculum Vitae](https://github.com/c-juhwan/c-juhwan/blob/mai
 
 ### Domestic Publications
 
-- 텍스트 분류를 위한 Wasserstein Autoencoder를 활용한 생성적 데이터 증강
-  - Kyohoon Jin, Junho Lee, **Juhwan Choi**, Sangmin Song, Soojin Jang and YoungBin Kim
-  - 2024년도 한국통신학회 동계종합학술발표회
-- 소프트 라벨을 적용한 규칙 기반 텍스트 데이터 증강 기법
-  - **Juhwan Choi**, Junho Lee, Sangmin Song, Kyohoon Jin and YoungBin Kim
-  - 대한전자공학회 2023년도 하계종합학술대회
-  - [Paper](https://github.com/c-juhwan/c-juhwan/blob/main/Documents/Papers/소프트_라벨을_적용한_규칙_기반_텍스트_데이터_증강_기법_인쇄본.pdf) | [Poster](https://github.com/c-juhwan/c-juhwan/blob/main/Documents/Papers/소프트_라벨을_적용한_규칙_기반_텍스트_데이터_증강_기법_포스터.pdf)
+- 기계번역에서 효율적인 도메인 적응을 위한 적응형 데이터스토어 리사이징
+  - Jinhee Jang, **Juhwan Choi**, Jungmin Yun and YoungBin Kim
+  - 대한전자공학회 2024년도 하계종합학술대회
+  - [Paper](https://github.com/c-juhwan/c-juhwan/blob/main/Documents/Papers/기계번역에서_효율적인_도메인_적응을_위한_적응형_데이터스토어_리사이징.pdf)
 - 감정 간의 관계를 고려한 지도 대조 학습 기반 감정 인식
   - Dongje Yoo, Kyunghoon Jeon, **Juhwan Choi** and YoungBin Kim
   - 대한전자공학회 2023년도 하계종합학술대회
@@ -84,10 +91,6 @@ Please check my [Curriculum Vitae](https://github.com/c-juhwan/c-juhwan/blob/mai
   - Junho Lee, Sahngmin Song, **Juhwan Choi**, Juhyoung Park, Kyohoon Jin and YoungBin Kim
   - 한국HCI학회 2023년도 학술대회
   - [Paper](https://github.com/c-juhwan/c-juhwan/blob/main/Documents/Papers/낯선_데이터를_활용한_과잉신뢰_완화_텍스트_증강_기법_인쇄본.pdf) | [Presentation](https://github.com/c-juhwan/c-juhwan/blob/main/Documents/Papers/낯선_데이터를_활용한_과잉신뢰_완화_텍스트_증강_기법_발표자료.pptx)
-- Semantic Preservation and Natural Language Data Augmentation via Variational Autoencoder
-  - Yuchul Shin, Kyohoon Jin, **Juhwan Choi**, Junho Lee, Soojin Jang and YoungBin Kim
-  - TechArt
-  - [Paper](https://github.com/c-juhwan/c-juhwan/blob/main/Documents/Papers/Semantic_Preservation_and_Natural_Language_Data_Augmentation_via_Variational_Autoencoder.pdf)
 - Variational Autoencoder 기반 의미 보존 자연어 데이터 증강 기법
   - **Juhwan Choi**, Junho Lee, Kyohoon Jin, Yehoon Jang, Soojin Jang and YoungBin Kim
   - 대한전자공학회 2022년도 하계종합학술대회
@@ -102,13 +105,13 @@ Please check my [Curriculum Vitae](https://github.com/c-juhwan/c-juhwan/blob/mai
 
 ### Programming Languages
 
-- Familiar: Python | C | C++
-- Experienced: MATLAB
+- Familiar: Python
+- Experienced: MATLAB | C | C++
 
 ### Programming Libraries
 
-- Familiar: Pytorch | HuggingFace | Numpy | Pandas
+- Familiar: Pytorch | HuggingFace Transformers | NumPy | Pandas
 
 ### Programming Tools
 
-- Familiar: Git
+- Familiar: Git | CLI
