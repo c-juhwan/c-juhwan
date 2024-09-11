@@ -17,6 +17,11 @@ Please check my [Curriculum Vitae](https://github.com/c-juhwan/c-juhwan/blob/mai
 
 ### International Publications
 
+- Questioning Internal Knowledge Structure of Large Language Models Through the Lens of the Olympic Games
+  - **Juhwan Choi** and YoungBin Kim
+  - arXiv Preprint arXiv:2409.06518
+  - [Paper](https://arxiv.org/pdf/2409.06518)
+
 - VolDoGer: LLM-assisted Datasets for Domain Generalization in Vision-Language Tasks
   - **Juhwan Choi**, Junehyoung Kwon, Jungmin Yun, Seunguk Yu and YoungBin Kim
   - arXiv Preprint arXiv:2407.19795
