@@ -29,12 +29,12 @@ Please check my [Curriculum Vitae](https://github.com/c-juhwan/c-juhwan/blob/mai
 
 - UniGen: Universal Domain Generalization for Sentiment Classification via Zero-shot Dataset Generation
   - **Juhwan Choi**, Yeonghwa Kim, Seunguk Yu, Jungmin Yun and YoungBin Kim
-  - arXiv Preprint arXiv:2405.01022
+  - EMNLP 2024
   - [Paper](https://arxiv.org/pdf/2405.01022.pdf)
 
 - Multi-News+: Cost-efficient Dataset Cleansing via LLM-based Data Annotation
   - **Juhwan Choi**, Jungmin Yun, Kyohoon Jin and YoungBin Kim
-  - arXiv Preprint arxiv:2404.09682
+  - EMNLP 2024
   - [Paper](https://arxiv.org/pdf/2404.09682.pdf)
 
 - Don't be a Fool: Pooling Strategies in Offensive Language Detection from User-Intended Adversarial Attacks
