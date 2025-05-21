@@ -1,14 +1,11 @@
 # Juhwan Choi
 
-![overview](https://github.com/c-juhwan/github-stats/blob/master/generated/overview.svg)
-![languages](https://github.com/c-juhwan/github-stats/blob/master/generated/languages.svg)
-
 Please check my [Curriculum Vitae](https://github.com/c-juhwan/c-juhwan/blob/main/Documents/Curriculum_Vitae_Juhwan_Choi.pdf) for more information!
 
 ## Profile
 
-- Graduate student @ Department of Artificial Intelligence, Chung-Ang University
-- E-mail: [gold32317@gmail.com](mailto:gold32317@gmail.com) / [gold5230@cau.ac.kr](mailto:gold5230@cau.ac.kr)
+- Researcher, [AITRICS](https://www.aitrics.com)
+- E-mail: [gold32317@gmail.com](mailto:gold32317@gmail.com) / [jhchoi@aitrics.com](mailto:jhchoi@aitrics.com)
 - Personal Blog: [c-juhwan.github.io](c-juhwan.github.io)
 - LinkedIn: [linkedin.com/in/cjuhwan99](https://www.linkedin.com/in/cjuhwan99/)
 - Research Interest: Natural Language Processing, Deep Learning
@@ -16,6 +13,29 @@ Please check my [Curriculum Vitae](https://github.com/c-juhwan/c-juhwan/blob/mai
 ## Publications
 
 ### International Publications
+
+- Plug-in and Fine-tuning: Bridging the Gap between Small Language Models and Large Language Models
+  - Kyeonghyun Kim, Jinhee Jang, **Juhwan Choi**, Yoonji Lee, Kyohoon Jin and YoungBin Kim
+  - ACL 2025
+
+- Delving into Multilingual Ethical Bias: The MSQAD with Statistical Hypothesis Tests for Large Language Models
+  - Seunguk Yu, **Juhwan Choi**, and YoungBin Kim
+  - ACL 2025
+
+- See-Saw Modality Balance: See Gradient, and Sew Impaired Vision-Language Balance to Mitigate Dominant Modality Bias
+  - Junehyoung Kwon, MiHyeon Kim, Eunju Lee, **Juhwan Choi** and YoungBin Kim
+  - NAACL 2025 (Oral Presentation)
+  - [Paper](https://aclanthology.org/2025.naacl-long.222/)
+
+- SummPilot: Bridging Efficiency and Customization for Interactive Summarization System
+  - Jungmin Yun, **Juhwan Choi**, Kyohoon Jin, Soojin Jang, Jinhee Jang and YoungBin Kim
+  - AAAI 2025 Demonstration Track
+  - [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35380)
+
+- Korean Football In-game Conversation State Tracking Dataset for Dialogue and Turn Level Evaluation
+  - Sangmin Song, Juhyoung Park, **Juhwan Choi**, Junho Lee, Kyohoon Jin and YoungBin Kim
+  - Engineering Application of Artificial Intelligence
+  - [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197624017305)
 
 - Questioning Internal Knowledge Structure of Large Language Models Through the Lens of the Olympic Games
   - **Juhwan Choi** and YoungBin Kim
