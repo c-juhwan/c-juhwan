@@ -6,7 +6,6 @@ Please check my [Curriculum Vitae](https://github.com/c-juhwan/c-juhwan/blob/mai
 
 - Researcher, [AITRICS](https://www.aitrics.com)
 - E-mail: [gold32317@gmail.com](mailto:gold32317@gmail.com) / [jhchoi@aitrics.com](mailto:jhchoi@aitrics.com)
-- Personal Blog: [c-juhwan.github.io](c-juhwan.github.io)
 - LinkedIn: [linkedin.com/in/cjuhwan99](https://www.linkedin.com/in/cjuhwan99/)
 - Research Interest: Natural Language Processing, Deep Learning
 
@@ -14,13 +13,35 @@ Please check my [Curriculum Vitae](https://github.com/c-juhwan/c-juhwan/blob/mai
 
 ### International Publications
 
+- CoBA: Counterbias Text Augmentation for Mitigating Various Spurious Correlations via Semantic Triples 
+  - Kyohoon Jin, **Juhwan Choi**, Jungmin Yun, Junho Lee, Soojin Jang, and YoungBin Kim
+  - EMNLP 2025
+  - [Paper](https://aclanthology.org/2025.emnlp-main.520/)
+
+- Beyond Single-User Dialogue: Assessing Multi-User Dialogue State Tracking Capabilities of Large Language Models 
+  - Sangmin Song, **Juhwan Choi**, Jungmin Yun and YoungBin Kim
+  - EMNLP 2025 Findings
+  - [Paper](https://aclanthology.org/2025.findings-emnlp.1090/)
+ 
+- Position Paper: How Should We Responsibly Adopt LLMs in the Peer Review Process?
+  - **Juhwan Choi**, Jungmin Yun, Changhun Kim and YoungBin Kim
+  - OpenReview Preprint
+  - [Paper](https://openreview.net/forum?id=KZ3NspcpLN)
+
+- EMR-AGENT: Automating Cohort and Feature Extraction from EMR Databases
+  - Kwanhyung Lee, Sungsoo Hong, Joonhyung Park, Jeonghyeop Lim, **Juhwan Choi**, Donghwee Yoon and Eunho Yang
+  - arXiv Preprint
+  - [Paper](https://arxiv.org/abs/2510.00549)
+
 - Plug-in and Fine-tuning: Bridging the Gap between Small Language Models and Large Language Models
   - Kyeonghyun Kim, Jinhee Jang, **Juhwan Choi**, Yoonji Lee, Kyohoon Jin and YoungBin Kim
   - ACL 2025
+  - [Paper](https://aclanthology.org/2025.acl-long.271/)
 
 - Delving into Multilingual Ethical Bias: The MSQAD with Statistical Hypothesis Tests for Large Language Models
   - Seunguk Yu, **Juhwan Choi**, and YoungBin Kim
   - ACL 2025
+  - [Paper](https://aclanthology.org/2025.acl-long.15/)
 
 - See-Saw Modality Balance: See Gradient, and Sew Impaired Vision-Language Balance to Mitigate Dominant Modality Bias
   - Junehyoung Kwon, MiHyeon Kim, Eunju Lee, **Juhwan Choi** and YoungBin Kim
@@ -37,15 +58,15 @@ Please check my [Curriculum Vitae](https://github.com/c-juhwan/c-juhwan/blob/mai
   - Engineering Application of Artificial Intelligence
   - [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197624017305)
 
-- Questioning Internal Knowledge Structure of Large Language Models Through the Lens of the Olympic Games
+- Medal Matters: Probing LLMs' Failure Cases Through Olympic Rankings
   - **Juhwan Choi** and YoungBin Kim
-  - arXiv Preprint arXiv:2409.06518
+  - COLM 2025 ORIGen Workshop
   - [Paper](https://arxiv.org/pdf/2409.06518)
 
 - VolDoGer: LLM-assisted Datasets for Domain Generalization in Vision-Language Tasks
   - **Juhwan Choi**, Junehyoung Kwon, Jungmin Yun, Seunguk Yu and YoungBin Kim
-  - arXiv Preprint arXiv:2407.19795
-  - [Paper](https://arxiv.org/pdf/2407.19795.pdf)
+  - ICCV 2025 CDEL Workshop
+  - [Paper](https://openaccess.thecvf.com/content/ICCV2025W/CDEL/html/Choi_VolDoGer_LLM-assisted_Datasets_for_Domain_Generalization_in_Vision-Language_Tasks_ICCVW_2025_paper.html)
 
 - UniGen: Universal Domain Generalization for Sentiment Classification via Zero-shot Dataset Generation
   - **Juhwan Choi**, Yeonghwa Kim, Seunguk Yu, Jungmin Yun and YoungBin Kim
